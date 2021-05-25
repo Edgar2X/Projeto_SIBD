@@ -1,14 +1,11 @@
-/**
- * teste
- */
+
 public class teste {
     public static void main(String[] args) {
-        if (1 == 2){
-            System.out.println(1+1);
-        }
-        else{
-            System.out.println(3);
-        }
+       System.out.println("Atividade 1");
+
+       int x = 10;
+       System.out.println(x);
+        
     }
     
 }
